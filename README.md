@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [site URL here](https://masterpm.github.io/Order-summary-card/)
+- Live Site URL: [site URL here](https://masterpm.github.io/Order-summary-card-main/)
 
 ## My process
 
